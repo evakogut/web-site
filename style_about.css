@@ -219,7 +219,7 @@ a{
   text-align: center;
   transition: transform 0.5s linear;
   transform: rotate(0deg);
-  content: url("file:///Users/evakogut/Desktop/web-site/img/arrow.png");
+  content: url("img/arrow.png");
 }
 .slider-wrap a.close::after {
   transform: rotate(90deg);
@@ -287,7 +287,7 @@ a{
   text-align: center;
   transition: transform 0.5s linear;
   transform: rotate(0deg);
-  content: url("file:///Users/evakogut/Desktop/web-site/img/arrow.png");
+  content: url("img/arrow.png");
 }
 .slider-wrap_1 a.close::after {
   transform: rotate(90deg);
@@ -336,7 +336,7 @@ a{
   text-align: center;
   transition: transform 0.5s linear;
   transform: rotate(0deg);
-  content: url("file:///Users/evakogut/Desktop/web-site/img/arrow.png");
+  content: url("img/arrow.png");
 }
 .slider-wrap_2 a.close::after {
   transform: rotate(90deg);
